@@ -1,6 +1,5 @@
 # Peblla – Smart Digital Ordering & Restaurant Management System
 
-![Peblla Logo](https://www.peblla.com/logo.png)
 
 [![Website](https://img.shields.io/badge/Website-Peblla-blue)](https://www.peblla.com/)
 [![Documentation](https://img.shields.io/badge/Docs-Available-green)](https://help.peblla.com/)
